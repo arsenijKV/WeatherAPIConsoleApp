@@ -1,0 +1,14 @@
+F:\Desktop\Programing\API\API\bin\Debug\net9.0\API.exe
+F:\Desktop\Programing\API\API\bin\Debug\net9.0\API.deps.json
+F:\Desktop\Programing\API\API\bin\Debug\net9.0\API.runtimeconfig.json
+F:\Desktop\Programing\API\API\bin\Debug\net9.0\API.dll
+F:\Desktop\Programing\API\API\bin\Debug\net9.0\API.pdb
+F:\Desktop\Programing\API\API\obj\Debug\net9.0\API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\Programing\API\API\obj\Debug\net9.0\API.AssemblyInfoInputs.cache
+F:\Desktop\Programing\API\API\obj\Debug\net9.0\API.AssemblyInfo.cs
+F:\Desktop\Programing\API\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
+F:\Desktop\Programing\API\API\obj\Debug\net9.0\API.dll
+F:\Desktop\Programing\API\API\obj\Debug\net9.0\refint\API.dll
+F:\Desktop\Programing\API\API\obj\Debug\net9.0\API.pdb
+F:\Desktop\Programing\API\API\obj\Debug\net9.0\API.genruntimeconfig.cache
+F:\Desktop\Programing\API\API\obj\Debug\net9.0\ref\API.dll
